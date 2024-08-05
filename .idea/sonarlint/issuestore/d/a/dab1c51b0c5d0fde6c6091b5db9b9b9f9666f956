@@ -1,0 +1,23 @@
+
+”
+java:S1192-"QDefine a constant instead of duplicating this literal "application/json" 4 times.(ˆ±¶è8á­‹ªö1J$15e030e5-222a-4ee2-9bf1-cb00ed35c445
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÉ£ñÿÿÿÿÿ8Æ”¾¹ô1J$32ca7f6e-4c45-46ac-b880-f3b01f380445
+n
+java:S1452"&Remove usage of generic wildcard type.(ÎŒ×ùøÿÿÿÿ8É”¾¹ô1J$74c459eb-5342-4f57-a846-7a693dc610a2
+n
+java:S1452""&Remove usage of generic wildcard type.(—‡Àıÿÿÿÿ8Óˆ¿¹ô1J$6af5eb0f-5fd1-48c6-956b-7a639191d039
+u
+java:S11726"-Remove this unused method parameter "method".(ï›ì—øÿÿÿÿ8‡®‹ªö1J$f99c87ab-c5cd-4595-946b-f12894898796
+i
+java:S1452@"&Remove usage of generic wildcard type.(òã’Î8Š®‹ªö1J$115de06d-d11c-4fa8-ba21-6ef7eee4d496
+i
+java:S1452F"&Remove usage of generic wildcard type.(¦Üæ¯8Œ®‹ªö1J$f44b87f6-f16d-4097-bb68-62bf9828f740
+n
+java:S1452K"&Remove usage of generic wildcard type.(à­é üÿÿÿÿ8®‹ªö1J$54b418ae-df2f-4c40-8768-2d67b1e53e18
+i
+java:S1452Q"&Remove usage of generic wildcard type.(‚ÆòÖ8®‹ªö1J$d8df0da2-ffc0-445e-a73d-75b2e9747d39
+n
+java:S1452W"&Remove usage of generic wildcard type.(¡£Ê÷úÿÿÿÿ8®‹ªö1J$f75fc066-b3fd-4943-9361-74a4683dd283
+n
+java:S1452]"&Remove usage of generic wildcard type.(Ÿ”ôŠøÿÿÿÿ8®‹ªö1J$b17a7988-7fe5-4ea3-ab04-ba6facdfb8ee

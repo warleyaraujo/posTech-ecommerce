@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="FILE:Gestao de Envio/src/main/java/com/postech/gestaodeenvio/entities/bodys/calculafrete/Cotacao.java" />
+      </list>
+    </option>
+  </component>
+</project>

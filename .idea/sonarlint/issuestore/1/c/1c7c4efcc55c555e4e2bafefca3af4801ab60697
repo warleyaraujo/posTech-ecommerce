@@ -1,0 +1,22 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "request".(Éßêµúÿÿÿÿ8ÄëÃçø1
+N
+java:S1481",Remove this unused "request" local variable.(Éßêµúÿÿÿÿ8ÅëÃçø1
+L	java:S106"+Replace this use of System.out by a logger.(õèÎ£øÿÿÿÿ8ÆëÃçø1
+f
+java:S1854""IRemove this useless assignment to local variable "inserirFretesRequests".(‡Ñ”¿8ÆëÃçø1
+Z
+java:S1854 "8Remove this useless assignment to local variable "from".(«²ë°üÿÿÿÿ8ÆëÃçø1
+X
+java:S1854"6Remove this useless assignment to local variable "to".(êÆ§†úÿÿÿÿ8ÆëÃçø1
+`
+java:S1854$">Remove this useless assignment to local variable "prodctItem".(â§Àûÿÿÿÿ8ÆëÃçø1
+I
+java:S1481"'Remove this unused "to" local variable.(êÆ§†úÿÿÿÿ8ÇëÃçø1
+K
+java:S1481 ")Remove this unused "from" local variable.(«²ë°üÿÿÿÿ8ÇëÃçø1
+W
+java:S1481"":Remove this unused "inserirFretesRequests" local variable.(‡Ñ”¿8ÈëÃçø1
+Q
+java:S1481$"/Remove this unused "prodctItem" local variable.(â§Àûÿÿÿÿ8ÉëÃçø1
